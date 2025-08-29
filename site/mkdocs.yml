@@ -1,0 +1,8 @@
+site_name: SOIM Docs
+theme:
+ name: material
+nav: 
+ - Home: index.md
+ - Architecture: architecture.md
+ - API: api.md
+ - Ops Runbook: ops-runbook.md
