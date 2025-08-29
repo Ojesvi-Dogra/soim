@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"SOIM","text":"<p>Test 1</p>"},{"location":"api/","title":"API\\n\\n(coming soon)","text":""},{"location":"architecture/","title":"Architecture\\n\\n(coming soon)","text":""},{"location":"ops-runbook/","title":"Ops Runbook\\n\\n(coming soon)","text":""}]}
